@@ -1,6 +1,6 @@
 <?php
 
-namespace Kevin\Onesignal;
+namespace Kevinkevin\Onesignal;
 
 use Illuminate\Support\ServiceProvider;
 

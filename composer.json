@@ -1,5 +1,5 @@
 {
-    "name": "kevin/onesignal",
+    "name": "kevinkone/onesignal",
     "description": "The package allows for the ability to send push notifications to both iOS and Android devices.",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Kevin\\Onesignal\\":"src/"
+            "Kevinkone\\Onesignal\\":"src/"
         }
     }
 }
