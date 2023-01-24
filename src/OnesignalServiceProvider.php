@@ -14,6 +14,7 @@ class OnesignalServiceProvider extends ServiceProvider
 
     public function register()
     {
-        
+        $this->app->config->set('onesiginal.api_key', env('APP_API_KEY'));
+        $this->app->config->set('onesiginal.api_id', env('APP_ID'));
     }
 }
