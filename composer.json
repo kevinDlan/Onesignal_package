@@ -1,0 +1,19 @@
+{
+    "name": "kevin/onesignal",
+    "description": "The package allows for the ability to send push notifications to both iOS and Android devices.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kevinKONE",
+            "email": "kevinkone19@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kevin\\Onesignal\\":"src/"
+        }
+    }
+}
